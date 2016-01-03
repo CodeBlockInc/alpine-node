@@ -1,6 +1,6 @@
 FROM janeczku/alpine-kubernetes:3.2
 
-ENV VERSION=v4.2.4 NPM_VERSION=3
+ENV VERSION=v4.2.4 NPM_VERSION=2
 
 # For base builds
 # ENV CONFIG_FLAGS="--without-npm" RM_DIRS=/usr/include
